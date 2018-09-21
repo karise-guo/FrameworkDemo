@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                      = 'TestFramework'
+  s.name                      = 'TestFramework_Fmone'
   s.version                   = '1.0.0'
   s.summary                   = '测试Framework'
   s.homepage                  = 'https://github.com/Jonzzs/TestFramework'
