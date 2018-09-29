@@ -1,0 +1,51 @@
+BCSymbolMap Version: 2.0
+_globalinit_33_CF381ACC6175457E1C7898F07586B983_func0
+_$S13FrameworkDemo13TestAlamofireC24startListenNetworkStatusyyFZy0D00G19ReachabilityManagerC0giH0OcfU_
+_$Ss16_SmallUTF8StringVyABSgxcs22RandomAccessCollectionRzs6UInt16V7ElementRtzlufCSRyAFG_Tgq5Tf4xd_n
+_$S9Alamofire26NetworkReachabilityManagerC0bC6StatusOIegy_SgWOe
+_globalinit_33_CF381ACC6175457E1C7898F07586B983_token0
+_$Ss23_ContiguousArrayStorageCyypGML
+_$S13FrameworkDemoMXM
+_$S13FrameworkDemo13TestAlamofireCML
+_$S13FrameworkDemo13TestAlamofireCMf
+_symbolic ____ 13FrameworkDemo13TestAlamofireC
+_$S13FrameworkDemo13TestAlamofireCMF
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftDarwin_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftDispatch_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftFoundation_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftUIKit_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftCoreImage_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftMetal_$_FrameworkDemo
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_FrameworkDemo
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 10.0.0 (clang-1000.11.45.1)
+-emit-bc /Users/Jonzzs/Downloads/FrameworkDemo/FrameworkDemo/FrameworkDemo/TestAlamofire.swift -emit-module-path /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/Objects-normal/arm64/FrameworkDemo.swiftmodule -emit-module-doc-path /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/Objects-normal/arm64/FrameworkDemo.swiftdoc -serialize-diagnostics-path /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/Objects-normal/arm64/FrameworkDemo-master.dia -emit-objc-header-path /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/Objects-normal/arm64/FrameworkDemo-Swift.h -emit-dependencies-path /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/Objects-normal/arm64/FrameworkDemo-master.d -target arm64-apple-ios10.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk -I /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/BuildProductsPath/Release-iphoneos -F /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/BuildProductsPath/Release-iphoneos -F /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/BuildProductsPath/Release-iphoneos/Alamofire -g -import-underlying-module -module-cache-path /Users/Jonzzs/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -swift-version 4 -O -D COCOAPODS -serialize-debugging-options -Xcc -I/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/FrameworkDemo-generated-files.hmap -Xcc -I/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/FrameworkDemo-own-target-headers.hmap -Xcc -I/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/FrameworkDemo-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/FrameworkDemo-project-headers.hmap -Xcc -I/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/DerivedSources/arm64 -Xcc -I/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/DerivedSources -Xcc -DCOCOAPODS=1 -Xcc -ivfsoverlay -Xcc /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/Jonzzs/Downloads/FrameworkDemo/FrameworkDemo -parse-as-library -module-name FrameworkDemo -num-threads 8 -o /Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/Objects-normal/arm64/TestAlamofire.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/Jonzzs/Downloads/FrameworkDemo/FrameworkDemo
+Apple Swift version 4.2 effective-4.1.50 (swiftlang-1000.11.37.1 clang-1000.11.45.1)
+/Users/Jonzzs/Downloads/FrameworkDemo/FrameworkDemo/FrameworkDemo/TestAlamofire.swift
+$S13FrameworkDemo13TestAlamofireCMa
+<compiler-generated>
+$Ss16_SmallUTF8StringVyABSgxcs22RandomAccessCollectionRzs6UInt16V7ElementRtzlufCSRyAFG_Tgq5Tf4xd_n
+$SSv10storeBytes2of12toByteOffset2asyx_SixmtlFs5UInt8V_Tgq5
+$SSmsE6remove2at7ElementQz5IndexQz_tFs11_UIntBufferVys6UInt32Vs6UInt16VG_Tgq5
+deinit
+TestAlamofire.swift
+/Users/Jonzzs/Downloads/FrameworkDemo/FrameworkDemo/FrameworkDemo
+$S13FrameworkDemo13TestAlamofireC24startListenNetworkStatusyyFZy0D00G19ReachabilityManagerC0giH0OcfU_
+_allocateUninitializedArray
+$SSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+init
+$Ss16_SmallUTF8StringVyABSgxcs22RandomAccessCollectionRzs6UInt16V7ElementRtzlufCSRyAFG_Tgq5
+$Ss23_ContiguousArrayStorageCyypGMa
+startListenNetworkStatus
+$S9Alamofire26NetworkReachabilityManagerC8listeneryAC0bC6StatusOcSgvs
+$S13FrameworkDemo13TestAlamofireC14networkManager0D0019NetworkReachabilityF0CSgvau
+networkManager.get
+globalinit_33_CF381ACC6175457E1C7898F07586B983_func0
+Apple LLVM version 10.0.0 (clang-1000.11.45.2)
+/Users/Jonzzs/Library/Developer/Xcode/DerivedData/FrameworkDemo-fafxkstkjtqlildbrawsolodevbc/Build/Intermediates.noindex/ArchiveIntermediates/FrameworkDemo/IntermediateBuildFilesPath/FrameworkDemo.build/Release-iphoneos/FrameworkDemo.build/DerivedSources/FrameworkDemo_vers.c
