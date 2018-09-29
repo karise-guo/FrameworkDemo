@@ -13,5 +13,4 @@ Pod::Spec.new do |s|
 
   # 依赖库
   s.dependency 'Alamofire'
-
 end

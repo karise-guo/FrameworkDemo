@@ -13,6 +13,7 @@ public class TestAlamofire {
     
     public static let networkManager = NetworkReachabilityManager(host: "https://www.baidu.com")
     
+    // 监听网络状态
     public class func startListenNetworkStatus() {
         print("开始监听网络状态")
         networkManager?.listener = { status in
